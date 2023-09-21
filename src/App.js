@@ -1,4 +1,3 @@
-import './App.css';
 import ButtonBox from './components/ButtonBox';
 import Button from './components/Button';
 import Screen from './components/Screen';
